@@ -1,4 +1,4 @@
-import gym
+import gymnasium as gym
 import openai
 import ray
 from ray import rllib
