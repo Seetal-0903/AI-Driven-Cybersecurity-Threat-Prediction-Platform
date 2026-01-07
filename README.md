@@ -64,6 +64,9 @@ SYSTEM ARCHITECHTURE:-
 
 • Keeps history for learning and review
 
+<img width="1696" height="2528" alt="architecture" src="https://github.com/user-attachments/assets/0abbc6de-799f-4cb4-b3d7-9e45e69d1723" />
+
+
 VIDEO DEMONSTRATION:-
 
 
