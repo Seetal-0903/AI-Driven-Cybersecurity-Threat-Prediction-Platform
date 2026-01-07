@@ -15,3 +15,60 @@ PROJECT STATEMENT:-
  • Reduction in the workload of human security experts.
  
  • Improved overall organizational resilience against digital threats.
+
+APPROACH(WORKING):-
+
+• Monitor entry points
+
+• Files, URLs, networks, live traffic
+
+• Analyze behavior and patterns
+
+• Identify suspicious activity
+
+• Apply intelligence
+
+• Assess risk level and severity
+
+• Convert data into insights
+
+• Summaries instead of raw logs
+
+• Display results clearly
+
+• Graphs, alerts, explanations
+
+SYSTEM ARCHITECHTURE:-
+
+1. Frontend
+
+• User interface
+
+• Visual dashboards and reports
+
+2. Backend
+
+• Core analysis engine
+
+• Real-time data processing
+
+• AI & External Services
+
+• Intelligent reasoning
+
+• Threat interpretation
+
+3. Database
+
+• Stores analysis results
+
+• Keeps history for learning and review
+
+VIDEO DEMONSTRATION:-
+
+
+
+
+
+https://github.com/user-attachments/assets/36817659-7c0c-4361-b0c5-7e0c6d3b3ec9
+
